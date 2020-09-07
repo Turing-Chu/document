@@ -1,6 +1,6 @@
 # Go 中的调度
 
-> [https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
+> [https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html][part1]
 > 
 > 如果您计算机专业英文阅读能力不错，建议您阅读原文。
 
@@ -9,9 +9,13 @@
 
 三部分系列的索引：
 
-- [Go 中的调度 : 第一部分 - 操作系统调度](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
-- [Go 中的调度 : 第二部分 - Go 调度](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html)
-- [Go 中的调度 : 第一部分 - 并发]()
+- [Go 中的调度 : 第一部分 - 操作系统调度][part1]
+- [Go 中的调度 : 第二部分 - Go 调度][part2]
+- [Go 中的调度 : 第三 部分 - 并发][part3]
+
+[part1]: https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html
+[part2]: https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html
+[part3]: https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part3.html
 
 ## 简介
 
