@@ -128,10 +128,7 @@ Go 还比较新颖，在这语言之后使用案例和人员都不多。一直�
 
 Go 的社区也比较活跃。毕竟是一门新兴语言， 社区周围仍然期待发现 Go 可以用来做什么，所有 C++ 已经有的内容现在正在由 Go 程序员和开发人员实现。成为一种新语言的一部分是令人兴奋的，因为还有很多角落有待探索以及特性有待开发。
 
-If developing for either language sounds fun to you, don’t hesitate to choose one over the other. While Go might not be replacing C++ any time soon, it’s still used often and is in high demand. While they may have their different strong suits as languages, they stack up well against each other and you can’t really go wrong with either. 
-
 如果对你来说使用任意一门语言开发是有趣的，不要犹豫，选择它。尽管 Go 并不能那么快替代 C++，但是 Go 仍然被经常使用且需求量很大。虽然它们可能有各自不同的语言强项，但可以很好地组合在一起，你不会错的。
-
 
 
 ##  <a name="faq"></a> FAQ
